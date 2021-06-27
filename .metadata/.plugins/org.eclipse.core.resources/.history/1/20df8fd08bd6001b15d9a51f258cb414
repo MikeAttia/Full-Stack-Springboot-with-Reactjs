@@ -1,0 +1,5 @@
+package net.perscholas.springboot.model;
+
+public class student {
+
+}

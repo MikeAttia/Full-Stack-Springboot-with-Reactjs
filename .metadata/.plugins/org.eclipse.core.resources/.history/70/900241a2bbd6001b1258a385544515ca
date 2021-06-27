@@ -1,0 +1,5 @@
+package net.perscholas.springboot.controller;
+
+public class StudentController {
+
+}
